@@ -1,6 +1,4 @@
-# My MLOps Project
-
-This project demonstrates the MLOps process for containerizing a machine learning model using Docker.
+# MLOps Assignment
 
 ## Version Control (Step 1)
 
